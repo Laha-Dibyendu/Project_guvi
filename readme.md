@@ -1,3 +1,6 @@
+# Right now the app is only fetching 10 queries between 13th September to 15th September (It is inserted in the code manually)
+
+
 ## To run the application
 ### Create a virtual environment in WSL
 ```python3 -m venv .env```
