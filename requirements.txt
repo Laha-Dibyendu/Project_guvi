@@ -1,6 +1,0 @@
-flask
-numpy
-seaborn
-bs4
-pandas
-requests
