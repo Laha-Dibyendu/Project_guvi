@@ -1,0 +1,9 @@
+flask
+numpy
+seaborn
+bs4
+pandas
+requests
+openpyxl
+flask_security
+email_validator
